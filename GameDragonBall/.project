@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>GameDragonBall</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Resources/Backgrounds</name>
+			<type>2</type>
+			<location>D:/Năm 2 - Kì 2/Java/Dragon Tale Tutorial P08/Resources/Backgrounds</location>
+		</link>
+		<link>
+			<name>Resources/HUD</name>
+			<type>2</type>
+			<location>D:/Năm 2 - Kì 2/Java/Dragon Tale Tutorial P08/Resources/HUD</location>
+		</link>
+		<link>
+			<name>Resources/Maps</name>
+			<type>2</type>
+			<location>D:/Năm 2 - Kì 2/Java/Dragon Tale Tutorial P08/Resources/Maps</location>
+		</link>
+		<link>
+			<name>Resources/Music</name>
+			<type>2</type>
+			<location>D:/Năm 2 - Kì 2/Java/Dragon Tale Tutorial P08/Resources/Music</location>
+		</link>
+		<link>
+			<name>Resources/SFX</name>
+			<type>2</type>
+			<location>D:/Năm 2 - Kì 2/Java/Dragon Tale Tutorial P08/Resources/SFX</location>
+		</link>
+		<link>
+			<name>Resources/Sprites</name>
+			<type>2</type>
+			<location>D:/Năm 2 - Kì 2/Java/Dragon Tale Tutorial P08/Resources/Sprites</location>
+		</link>
+		<link>
+			<name>Resources/Tilesets</name>
+			<type>2</type>
+			<location>D:/Năm 2 - Kì 2/Java/Dragon Tale Tutorial P08/Resources/Tilesets</location>
+		</link>
+	</linkedResources>
+</projectDescription>
